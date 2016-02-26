@@ -21,3 +21,6 @@ Building the summary:
 
 Obviously, the final step of our algorithm is generating the final summary. We do that by splitting our text into paragraphs, and then we choose the best sentence from each paragraph according to our sentences dictionary.
 Computer Science: The Idea here is that every paragraph in the text represents some logical subset of our graph, so we just pick the most valuable node from each subset!
+
+
+Reference :http://thetokenizer.com/2013/04/28/build-your-own-summary-tool/
